@@ -1,0 +1,9 @@
+*.ncb
+*.sln
+*.suo
+*.swp
+*~
+*.vcproj.*.user
+Debug/
+Release/
+x64/
